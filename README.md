@@ -2,10 +2,6 @@
 - 👀 I’m interested thiking clear
 - 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on unification systems and robots with organics inteligence
-- 📫 How to reach me wv83955@gmail.com- 👋 Hi, I’m Vinícius
-- 👀 I’m interested thiking clear
-- 🌱 I’m currently learning C and Python
-- 💞️ I’m looking to collaborate on unification systems and robots with organics inteligence
 - 📫 How to reach me wv83955@gmail.com
 
 <!---
